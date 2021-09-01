@@ -1,0 +1,15 @@
+{
+  "name": "express-handlebars",
+  "version": "1.0.0",
+  "description": "Projeto de Node.js com Express e Handlebars",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Jesiel Viana",
+  "license": "MIT"
+}
