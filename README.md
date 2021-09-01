@@ -11,10 +11,26 @@ Veja meu blog: [jesielviana.com](https://www.jesielviana.com/)
 yarn
 ```
 
+ou
+
+```
+npm install
+```
+
 ## Iniciar o servidor
 
 ```
 yarn start
 ```
 
+ou
+
+```
+npm start
+```
+
 ## Acessar app online
+
+```
+[http://localhost:3000/](http://localhost:3000/)
+```
